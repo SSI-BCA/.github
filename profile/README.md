@@ -23,4 +23,5 @@ Or join our **[Discord](https://discord.gg/s2b3k8e9Za)**
 
 ## Credits
 [Puppetino](https://github.com/Puppetino) - Lead Developer / Project Owner
+
 [LoneWolf](https://github.com/BHLoneWolf0) - Assisting in Development
